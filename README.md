@@ -1,6 +1,3 @@
-#Социальная сеть
-В этой социальной сети работяги будут отдыхать))))
-#Технологии
-Django==2.2.19
-pytz==2021.1
-sqlparse==0.4.1
+# backend_community_homework
+
+[![CI](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/yandex-praktikum/hw02_community/actions/workflows/python-app.yml)
