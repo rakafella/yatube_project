@@ -16,10 +16,3 @@ def group_posts(request, post_id):
         'posts':posts,
     }
     return render(request, 'posts/group_list.html', context)
-
-#def group_posts(request, slug):
- #   context = {
-  #      'group':1,
-   #     'slug':slug,
-    #}
-    #return render(request, 'posts/group_list.html', context)
